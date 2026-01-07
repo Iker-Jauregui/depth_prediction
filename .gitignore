@@ -35,3 +35,5 @@ temp*.png
 /outputs
 
 CamVid/
+
+notebooks/test_depth_predictions.png
