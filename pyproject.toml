@@ -256,6 +256,7 @@ dependencies = [
     "zipp==3.23.0",
     "zstandard==0.25.0",
     "depth-anything-3",
+    "scikit-image>=0.26.0",
 ]
 
 [tool.uv.sources]
