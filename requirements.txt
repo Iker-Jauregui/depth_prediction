@@ -37,7 +37,7 @@ databricks-sdk==0.76.0
 debugpy==1.8.18
 decorator==4.4.2
 defusedxml==0.7.1
--e file:///home/alumno/Desktop/datos/Computer%20Vision/depth-anything-3
+-e file:///home/alumno/Desktop/datos/COMPUTER_VISION/FINAL_ASSIGNMENT/depth-anything-3
 distlib==0.4.0
 docker==7.1.0
 e3nn==0.5.8
