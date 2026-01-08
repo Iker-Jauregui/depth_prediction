@@ -37,3 +37,7 @@ temp*.png
 CamVid/
 
 notebooks/test_depth_predictions.png
+
+*.db
+
+notebooks/plots/
