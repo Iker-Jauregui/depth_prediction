@@ -1,0 +1,43 @@
+Test Set Metrics:
+========================================
+Depth Metrics:
+  MSE         : 100.3994
+  MAE         : 5.7901
+  RMSE        : 10.0199
+  Abs Rel     : 0.1630
+
+Segmentation Metrics:
+  Mean IoU    : 0.2188
+  IoU Class 0 : 0.0000
+  IoU Class 1 : 0.0000
+  IoU Class 2 : 0.3500
+  IoU Class 3 : 0.0000
+  IoU Class 4 : 0.7886
+  IoU Class 5 : 0.6493
+  IoU Class 6 : 0.0000
+  IoU Class 7 : 0.0000
+  IoU Class 8 : 0.0346
+  IoU Class 9 : 0.3172
+  IoU Class 10: 0.5145
+  IoU Class 11: 0.0000
+  IoU Class 12: 0.1585
+  IoU Class 13: 0.0000
+  IoU Class 14: 0.0869
+  IoU Class 15: 0.0144
+  IoU Class 16: 0.1481
+  IoU Class 17: 0.8969
+  IoU Class 18: 0.0000
+  IoU Class 19: 0.7249
+  IoU Class 20: 0.0000
+  IoU Class 21: 0.9248
+  IoU Class 22: 0.0002
+  IoU Class 23: 0.0000
+  IoU Class 24: 0.2812
+  IoU Class 25: 0.0000
+  IoU Class 26: 0.7281
+  IoU Class 27: 0.0000
+  IoU Class 28: 0.0000
+  IoU Class 29: 0.0936
+  IoU Class 30: 0.0938
+  IoU Class 31: 0.1948
+========================================

@@ -1,0 +1,17 @@
+Inference Time Summary:
+============================================================
+Teacher (DA3):
+  Mean:     437.35 ms  (±571.29 ms)
+  Median:   392.31 ms
+  Min:      385.08 ms
+  Max:     8993.05 ms
+
+Student (U-Net ResNet18):
+  Mean:       6.53 ms  (±18.12 ms)
+  Median:     5.13 ms
+  Min:        4.66 ms
+  Max:      281.62 ms
+
+Speedup: 67.00x faster
+Time Reduction: 98.5%
+============================================================
